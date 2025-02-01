@@ -10,7 +10,11 @@
   },
   "dependencies": {
     "@apollo/client": "^3.12.7",
-    "@types/graphql": "^14.5.0",
+    "@sentry/browser": "^8.51.0",
+    "@sentry/nextjs": "^8.51.0",
+    "@sentry/react": "^8.51.0",
+    "@sentry/tracing": "^7.120.3",
+    "@types/graphql": "^14.2.3",
     "graphql": "^16.10.0",
     "next": "15.1.6",
     "react": "^19.0.0",
